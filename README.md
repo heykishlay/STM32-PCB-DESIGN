@@ -54,30 +54,6 @@ The board includes:
 5. Routing
 6. Design rule checking
 7. PCB preparation for manufacturing
-
----
-
-## Project Structure
-
-```text
-STM32-PCB/
-├── STM32.kicad_sch
-├── STM32.kicad_pcb
-├── STM32.kicad_pro
-├── Images/
-└── README.md
-```
-
----
-
-## PCB Preview
-
-Add screenshots here:
-
-* PCB Layout
-* 3D Render
-* Schematic
-
 ---
 
 ## Tools Used
